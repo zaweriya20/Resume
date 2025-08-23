@@ -6,7 +6,7 @@ This project is a clean, modern, and fully responsive resume webpage designed to
 🚀 Live Demo
 
 Check out the live version here:
-🔗 https://zaweriya20.github.io/resume/NewResume.html
+🔗 https://github.com/zaweriya20/Resume/NewResume.html
 ---
 🛠️ Built With
 
